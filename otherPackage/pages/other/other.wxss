@@ -1,0 +1,7 @@
+/* pages/other/other.wxss */
+.title {
+  text-align: center;
+  margin: 40rpx auto;
+  font-size: 40rpx;
+  color: red;
+}

@@ -1,0 +1,2 @@
+<view class="title">测试获取用户唯一标识openId</view>
+<button bindtap="handleGetOpenId">获取openId</button>
